@@ -6,6 +6,7 @@ Homebrew tap for [FolderPeek](https://github.com/doma17/FolderPeek), a macOS Qui
 
 ```sh
 brew tap doma17/folderpeek
+brew trust doma17/folderpeek
 brew install --cask folderpeek
 ```
 
